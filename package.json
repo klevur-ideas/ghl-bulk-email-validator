@@ -1,0 +1,14 @@
+{
+  "name": "ghl-bulk-email-validator",
+  "version": "1.0.0",
+  "description": "Validates all contact email addresses for a GHL location (main or sub-account). Note that MailGun integration activation in GHL for the location is required. ",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Klevur, LLC. http://www.klevur.com - support@klevur.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.0"
+  }
+}
